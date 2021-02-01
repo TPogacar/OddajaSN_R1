@@ -51,7 +51,7 @@ Menim, da pretekli semester delo v paru ni bilo najboljše. Veliko časa sva z M
 
 ## Kako je "zloženo" gradivo
 
-Na repozitoriju [`OddajaSN_R1`](https://github.com/TPogacar/OddajaSN_R1) se poleg datotek `LICENSE` in `README.md` nahajajo štiri mape:
+Na mojem GitHub repozitoriju [**`OddajaSN_R1`**](https://github.com/TPogacar/OddajaSN_R1) se poleg datotek `LICENSE` in `README.md` nahajajo štiri mape:
 1.  `gradiva_predstavitve`, ki vsebuje:
      * datoteko `prosojnice_kratko_vprasanje.html`. To je datoteka s  prosojnicami, uporabljenimi na predstavitvi mojega kratkega vprašanja.
      * datoteko `prosojnice_kratko_vprasanje.md`, ki je izvorna datoteka  datoteke uporabljene pri sami predstavitvi.
